@@ -1,6 +1,6 @@
 # CT-ErrorCorrectingCodes-Assignment-Year1
 Durham University Computational Thinking Error Correcting Codes year 1 assignment.
-This readme file briefly describes what each python file does.
+This readme file briefly describes what each python function does.
 A more in-depth specification can be found in the coursework specification pdf.
 All functions written for the coursework are provided in the assignment.py file.
 The test_format.py provides some tests to the functions defined in the assignment.py file.
